@@ -23,7 +23,6 @@ const ColumnHeader = ({
     <div className="flex items-center justify-between pb-3 border-b border-[#1a1a1a] 
                     sticky top-0 bg-black z-20">
         <h2 className="text-white font-bold text-lg">{title}</h2>
-
         <div className="flex items-center gap-4">
             {/* Lightning + Count */}
             <div className="flex items-center gap-1.5 text-gray-400">
