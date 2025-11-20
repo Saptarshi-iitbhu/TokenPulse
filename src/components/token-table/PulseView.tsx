@@ -6,6 +6,8 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { useEffect, useState } from 'react';
 import { mockWebSocketService, TokenUpdate } from '@/services/websocket';
 import { Flame, TrendingUp, CheckCircle2, Zap, List, SlidersHorizontal } from 'lucide-react';
+import { Token } from '@/types/token'; 
+
 
 const ColumnHeader = ({
     title,
