@@ -1,4 +1,4 @@
-# Axiom Trade Token Discovery Table Replica
+# TokenPulse
 
 A pixel-perfect, high-performance replica of the Axiom Trade Token Discovery Table built with Next.js 14, TypeScript, Tailwind CSS, and Redux Toolkit.
 
